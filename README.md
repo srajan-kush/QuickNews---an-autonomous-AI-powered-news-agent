@@ -5,9 +5,9 @@
 
 **QuickNews** is an intelligent AI agent that autonomously searches, summarizes, and publishes news articles. Built as an industry-ready application, it streamlines the process of gathering and publishing news content with zero human intervention.
 
-![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/e1767482f53ceb59ca65fc289b0e7917c13b04a4/ss1.png)
+![frontPage](https://github.com/user-attachments/assets/68e5b3e3-c48c-473b-9715-22dd06c5465d)
 
-![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/e18e6475f632c399fceb0284fc5ba3e36fc2571e/ss2.png)
+
 
 ### Published news site excellent SEO test proof
 
