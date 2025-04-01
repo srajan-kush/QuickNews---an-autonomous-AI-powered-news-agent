@@ -1,2 +1,1 @@
-# QuickNews – an autonomous AI-powered news agent
- 
+streamlit run main.py
