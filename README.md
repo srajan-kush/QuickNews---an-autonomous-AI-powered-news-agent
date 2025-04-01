@@ -99,5 +99,5 @@ Feel free to fork the repo and submit pull requests. Open issues for major chang
   📞 Contact
 For any queries regarding the project, feel free to reach out:
 
-Email: amansaroj4518@gmail.com
-LinkedIn: https://www.linkedin.com/in/aman-saroj/
+Email: srajank2003@gmail.com
+LinkedIn: https://www.linkedin.com/in/srajan-kush/
